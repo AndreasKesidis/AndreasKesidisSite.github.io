@@ -543,7 +543,7 @@ a{
 
 @media screen and (max-width: 700px)  {
 
-    .education-container .bg-shape, .skills-container{
+    .education-container .bg-shape, .skills-container .bg-shape, .latest-project-container .bg-shape{
         display: none;
     }
 
