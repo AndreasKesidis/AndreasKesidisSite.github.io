@@ -30,7 +30,7 @@ elSection.forEach(elSection => {
 
 
 
-document.getElementById("appendText").innerHTML = "<ul class='ul-col fade-in'><lI>HTML5, CSS3, JavaScript Responsive design and web accessibility</lI> <li> PHP and MySQL for server-side scripting and database management</li> <li>Proficient in WordPress</li></ul>";
+document.getElementById("appendText").innerHTML = "<ul class='ul-col fade-in'><li>HTML5, CSS3, JavaScript, React and Bootstrap Responsive design and web accessibility</li></ul>";
 
 
     function appendTextTS() {
