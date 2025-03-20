@@ -30,11 +30,11 @@ elSection.forEach(elSection => {
 
 
 
-document.getElementById("appendText").innerHTML = "<ul class='ul-col fade-in'><li>HTML5, CSS3, JavaScript, React and Bootstrap Responsive design and web accessibility</li></ul>";
+document.getElementById("appendText").innerHTML = "<ul class='ul-col fade-in'><li>HTML5, CSS3, JavaScript, React and Bootstrap</li> <li>Responsive Design and Web Accessibility</li></ul>";
 
 
     function appendTextTS() {
-        document.getElementById("appendText").innerHTML = "<ul class='ul-col fade-in'> <li>HTML5, CSS3, JavaScript, React and Bootstrap Responsive design and web accessibility</li></ul>";
+        document.getElementById("appendText").innerHTML = "<ul class='ul-col fade-in'> <li>HTML5, CSS3, JavaScript, React and Bootstrap</li> <li>Responsive Design and Web Accessibility</li></ul>";
         Technical.classList.replace("inactive", "active");
         Creative.classList.replace("active", "inactive");
     }
